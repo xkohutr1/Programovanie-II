@@ -1,0 +1,5 @@
+# nazov cena vitamin kalorie dostupnost
+kukurica 0.18 107 72 10
+mlieko 0.23 500 121 5
+chlieb 0.05 0 65 5
+jogurt 0.3 800 150 10

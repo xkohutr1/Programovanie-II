@@ -1,0 +1,8 @@
+# toyota, skoda, audi, mercedes
+58 76 15 25
+# nestle, hami, sunar, nutrilon, beba
+14 18 24 17 16
+# apple, samsung, htc, lg, huawei, xioami
+80 50 12 5 8 10
+# coca-cola, pepsi-cola, nestea, rajec
+45 48 23 19
